@@ -22,23 +22,7 @@
         </div>
       </div>
     </div>
-    <div class="row">
-      <p>Encrypted Message:</p>
-              <?php 
-              $text = "Pronunciation: kweeuh-ruhn-see-uh
-
-Origin: Spanish
-
-Definition: A place where you are your most authentic self;
-A place from which your strength of character is drawn, where you feel safe, where you feel at home.
-
-
-Querencia. I chose this word because it’s exactly how i feel with you. You feel safe. I feel safe with you. You feel like home. I feel comfortable with you. I am myself around you. I feel loved especially at times when i am undeserving. I am drawn to you. I am attracted to you like magnet. Thank you for choosing me. Now, you’re stuck with me. I love you.
-" 
-
-
-              ?>
-    </div>
+   
     <div class="row">
        <?php
        session_start();
@@ -203,8 +187,7 @@ Querencia. I chose this word because it’s exactly how i feel with you. You fee
  <script type="text/javascript">
     function themessage(){
 
-    // let message = "Yaxwdwlrjcrxw: tfnndq-adqw-bnn-dq\n\nXarprw: Byjwrbq\n\nMnorwrcrxw: J yujln fqnan hxd jan hxda vxbc jdcqnwcrl bnuo;J yujln oaxv fqrlq hxda bcanwpcq xo lqjajlcna rb majfw, fqnan hxd onnu bjon, fqnan hxd onnu jc qxvn.\n\nZdnanwlrj. R lqxbn cqrb fxam knljdbn rc’b ngjlcuh qxf r onnu frcq hxd. Hxd onnu bjon. R onnu bjon frcq hxd. Hxd onnu urtn qxvn. R onnu lxvoxacjkun frcq hxd. R jv vhbnuo jaxdwm hxd. R onnu uxenm nbynlrjuuh jc crvnb fqnw r jv dwmnbnaerwp. R jv majfw cx hxd. R jv jccajlcnm cx hxd urtn vjpwnc. Cqjwt hxd oxa lqxxbrwp vn. Wxf, hxd’an bcdlt frcq vn. R uxen hxd.";
-
+  
 
     let message = "Oqnmtmbhzshnm: jvddtg-qtgm-rdd-tg\n\nNqhfhm: Rozmhrg\n\nCdehmhshnm: Z okzbd vgdqd xnt zqd xntq lnrs ztsgdmshb rdke;Z okzbd eqnl vghbg xntq rsqdmfsg ne bgzqzbsdq hr cqzvm, vgdqd xnt eddk rzed, vgdqd xnt eddk zs gnld.\n\nPtdqdmbhz. H bgnrd sghr vnqc adbztrd hs’r dwzbskx gnv h eddk vhsg xnt. Xnt eddk rzed. H eddk rzed vhsg xnt. Xnt eddk khjd gnld. H eddk bnlenqszakd vhsg xnt. H zl lxrdke zqntmc xnt. H eddk knudc drodbhzkkx zs shldr vgdm h zl tmcdrdquhmf. H zl cqzvm sn xnt. H zl zssqzbsdc sn xnt khjd lzfmds. Sgzmj xnt enq bgnnrhmf ld. Mnv, xnt’qd rstbj vhsg ld. H knud xnt.";
 
